@@ -34,7 +34,7 @@ def check_price():
         <html>
             <body>
                 <p>The price has dropped for <b><a href="{url}">{product_name}</a></b>.</p>
-                <p>Current value is <h2><b>${final_price}</b></h2>.</p>
+                <p>Current price is: <h2><b>${final_price}</b></h2>.</p>
             </body>
         </html>
         '''
