@@ -4,7 +4,7 @@ You will need to set up your email and port settings according to your email pro
 
 If you're using a common email provider like Gmail, Yahoo, or Outlook, here are the SMTP settings:
 
-For Gmail:
+For Gmail:<br>
 SMTP server: smtp.gmail.com
 SMTP port: 587 (for TLS) or 465 (for SSL)
 For Yahoo:
