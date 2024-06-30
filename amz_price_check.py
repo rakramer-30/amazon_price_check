@@ -52,7 +52,7 @@ def check_price():
         except Exception as e:
             print(f"Failed to send email: {e}")
     
-    if final_price < {final_price}:
+    if final_price < final_price:
         send_email()
     else:
         print("Price is not below (insert price here).")
