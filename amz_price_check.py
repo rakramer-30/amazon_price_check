@@ -62,3 +62,4 @@ schedule.every().hour.do(check_price)
 while True:
     schedule.run_pending()
     time.sleep(1)
+#For every 15 mintues update function here - schedule.every(15).minutes.do(check_price)
